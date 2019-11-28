@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include<iostream>
 #include<math.h>
-#include<string.h>
+
 float fun(float,float);
 main()
     {
