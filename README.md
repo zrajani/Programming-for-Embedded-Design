@@ -1,3 +1,3 @@
-# Programming Fundamentals in C and Cpp Language
+# Fundamental Principle in Programming
 
-Fundamental coding in C and C plus plus programming with basic concepts
+<b> Coding Languages: C and C++ </b>
