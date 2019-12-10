@@ -1,10 +1,3 @@
-/* File Name: ul_print.cpp
- * Created on: July 28, 2019
- * Author: Zain Rajani
- * Program Statement: Program prints Capital Letter and lower case letter depending if the users enters
- * "Upper" or "Lower".
- */
-
 // Library Importing
 #include <iostream>  // Basic Input/Output Operation
 #include <string>    // String Operation Library
@@ -42,14 +35,14 @@ int main (int argc, char*argv[])
 	{
 		//Checking what user has entered as argv[1]
 		//Considering maximum possibilities user might enter
-		if (a=="lowercase"||a=="lower_case"||a=="LOWERCASE"||a=="Lower_Case"||a=="lower"||a=="Lower_case"||a=="lower_Case")
-		//If entered lower then go to lower_case() and print lower case alphabets
+		if (a=="Lower_Case_Letter")
+		//If entered Lower Case Letter then go to lower_case() and print lower case alphabets
 		{
 			lower_case(i);
 			cout<<endl;
 		}
-		else if (a=="uppercase"||a=="upper_case"||a=="UPPERCASE"||a=="Upper_Case"||a=="upper"||a=="Upper_case"||a=="upper_Case")
-		//If entered lower then go to upper_case() and print upper case alphabets
+		else if (a=="Upper_Case_Letter")
+		//If entered Upper Case Letter then go to upper_case() and print upper case alphabets
 		{
 			upper_case(j);
 			cout<<endl;

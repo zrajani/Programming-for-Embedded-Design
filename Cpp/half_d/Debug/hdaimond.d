@@ -1,0 +1,1 @@
+hdaimond.o: ../hdaimond.c

@@ -1,0 +1,1 @@
+median.o: ../median.c

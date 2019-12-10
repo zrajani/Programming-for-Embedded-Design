@@ -1,5 +1,4 @@
-/* Author: Zain Rajani
- * Created on: July 31, 2019
+/*
  * File Name: automobile.cpp
  * Program Description:
  * The program is for a parking lot. It enables the user to input the data of the parking lot he wishes to enter
