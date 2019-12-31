@@ -1,6 +1,5 @@
+#include <stdio.h>
 // Create a node for LL 
-
-// Question 1
 
 struct Node { 
     int data; 
@@ -9,7 +8,7 @@ struct Node {
 };
 
 // Create a node in LL 
-// Question 2
+//
 
 typedef struct struct_name *name
 
