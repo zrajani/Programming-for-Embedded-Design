@@ -1,8 +1,9 @@
 /*
- * bin_tree.c
+ * Prgram Name: bin_tree.c
+ * Program Description: Create a binary tree using structures and traverse the tree 
+ * Created on: December 22, 2019
+ * Author: Zain Rajani 
  *
- *  Created on: Dec. 22, 2019
- *      Author: zain
  */
 
 #include<stdio.h>
