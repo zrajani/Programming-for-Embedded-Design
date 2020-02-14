@@ -1,4 +1,4 @@
-#include <stdio.h>  // Preprocessing Directives (I/O Operation)
+#include <stdio.h>  // Preprocessing Directives
 
 int main() // Code Begins Here
 {
