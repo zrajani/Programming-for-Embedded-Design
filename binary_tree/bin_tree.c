@@ -1,6 +1,7 @@
 /*
  * Prgram Name: bin_tree.c
  * Program Description: Create a binary tree using structures and traverse the tree 
+ * 			Using Preorder, PostOrder and Inorder Traversal
  * Created on: December 22, 2019
  * Author: Zain Rajani 
  *
