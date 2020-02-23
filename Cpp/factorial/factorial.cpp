@@ -1,3 +1,5 @@
+// Program Description: Finding the factorial of a number.
+
 #include<iostream>  // Standard Library Import
 using namespace std;  // Standard Operation Usage
 
