@@ -2,6 +2,8 @@
 //Software: Microsoft Visual Studio 2015
 //Alternative Software: Eclipse (With some modification in the code) such as making void main() to int main()
 
+//Author: Zain Rajani 
+
 // Pre-Processor Directives
 # include <iostream>  
 # include <conio.h>  
