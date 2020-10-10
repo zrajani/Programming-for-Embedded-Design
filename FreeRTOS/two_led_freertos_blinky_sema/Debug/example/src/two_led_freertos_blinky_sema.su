@@ -1,0 +1,4 @@
+two_led_freertos_blinky_sema.c:50:13:prvSetupHardware	8	static
+two_led_freertos_blinky_sema.c:63:6:task1	24	static
+two_led_freertos_blinky_sema.c:78:13:task2	16	static
+two_led_freertos_blinky_sema.c:97:5:main	24	static

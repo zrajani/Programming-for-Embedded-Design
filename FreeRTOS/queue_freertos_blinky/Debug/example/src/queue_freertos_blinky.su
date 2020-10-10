@@ -1,0 +1,4 @@
+queue_freertos_blinky.c:18:13:prvSetupHardware	8	static
+queue_freertos_blinky.c:30:13:vSenderTask	24	static
+queue_freertos_blinky.c:41:13:vRecieverTask	24	static
+queue_freertos_blinky.c:77:5:main	24	static
